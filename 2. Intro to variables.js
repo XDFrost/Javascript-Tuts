@@ -7,7 +7,6 @@
 
 
 
-
 // var firstname = "Luffy";
 
 // console.log(firstname);

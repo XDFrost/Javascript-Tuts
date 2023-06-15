@@ -19,6 +19,5 @@ console.log(firstname);
 
 
 
-
 // DIFFERENCE BETWEEN let AND var:
 // We can use the same variable name in var again and again but we can't use the same variable name in let

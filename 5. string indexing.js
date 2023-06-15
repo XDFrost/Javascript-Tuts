@@ -11,3 +11,4 @@ let firstname = "Luffy";
 // console.log(firstname.length);       //variable.length provides length of the declared variable; Spaces are includes; Length refers to the number of characters; Last index is (length-1)
 
 console.log(firstname[firstname.length -1]);           // Will give the last character
+

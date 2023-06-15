@@ -46,3 +46,4 @@
 let firstname = "Sanji";
 let new_name = firstname.slice(0,3);
 console.log(new_name);
+
