@@ -20,7 +20,7 @@ num3 = "7";
 num4 = 7;
 
 console.log(num3 == num4);                 // == checks if the values are same or not
-console.log(num3 === num4);                // == checks if both DataTypes as well as values are same or not
+console.log(num3 === num4);                // === checks if both DataTypes as well as values are same or not
 
 
 
