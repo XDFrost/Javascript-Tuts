@@ -15,6 +15,15 @@ const sum3 = function(num1, num2, num3) {
     return num1+num2+num3;
 }
 
-console.log(sum3(2,3,4))
+console.log(sum3(2,3,4));
 
 
+// iife function
+
+// Immediate execution
+// To remove pollution from global scope
+
+// ()()        // iife syntax
+(function check() {
+    console.log(`IFFE function`);
+})();
