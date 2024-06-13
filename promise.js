@@ -39,4 +39,4 @@ fetch('https://api.github.com/users/XDFrost')
 
 
 // Use promise in code
-// use fetch wit h API
+// use fetch with API
